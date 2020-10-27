@@ -21,4 +21,4 @@
 - Fitting models with gradient descent
 
 
-NOTE !!! : Other sections will be added soon.
+NOTE !!! : Other Chapter will be added soon.
