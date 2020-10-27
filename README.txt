@@ -1,4 +1,4 @@
-	Machine Learning with scikit-learn (Python)
+	Machine Learning with scikit-learn (Python) 
 	
 	** LINEAR REGRESSION ** - Chapter 01 -
 
