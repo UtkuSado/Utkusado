@@ -1,3 +1,5 @@
+	Machine Learning with scikit-learn (Python)
+	
 	** LINEAR REGRESSION ** - Chapter 01 -
 
 - Simple Linear Regression 
